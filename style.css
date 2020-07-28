@@ -1,0 +1,13 @@
+header{
+    background: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+div{
+    background: cadetblue;
+}
+nav{
+    padding: 2px;
+    margin: 6px;
+}
